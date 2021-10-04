@@ -1,0 +1,11 @@
+C:\Users\a793596\source\repos\Tank\bin\Debug\Tank.exe.config
+C:\Users\a793596\source\repos\Tank\bin\Debug\Tank.exe
+C:\Users\a793596\source\repos\Tank\bin\Debug\Tank.pdb
+C:\Users\a793596\source\repos\Tank\obj\Debug\Tank.csprojAssemblyReference.cache
+C:\Users\a793596\source\repos\Tank\obj\Debug\Tank.Form1.resources
+C:\Users\a793596\source\repos\Tank\obj\Debug\Tank.Properties.Resources.resources
+C:\Users\a793596\source\repos\Tank\obj\Debug\Tank.csproj.GenerateResource.cache
+C:\Users\a793596\source\repos\Tank\obj\Debug\Tank.csproj.CoreCompileInputs.cache
+C:\Users\a793596\source\repos\Tank\obj\Debug\Tank.exe
+C:\Users\a793596\source\repos\Tank\obj\Debug\Tank.pdb
+C:\Users\a793596\source\repos\Tank\obj\Debug\Tank.LevelSetting.resources
